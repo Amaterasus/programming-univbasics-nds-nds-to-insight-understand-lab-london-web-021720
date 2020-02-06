@@ -12,6 +12,3 @@ end
 def print_first_directors_movie_titles
   
 end
-
-
-console.log(pretty_print_nds.to_s)
